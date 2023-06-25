@@ -10,7 +10,7 @@ while True:
 
 sqrt = int(Digit ** 0.5)
 
-for i in range(Start_digit, sqrt+One // Start_digit+One):
+for i in range(Start_digit, sqrt + One):
     if (Digit % i == 0):
         divider += One
 
