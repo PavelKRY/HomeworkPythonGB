@@ -1,6 +1,5 @@
 sides_of_a_triangle = input('Введите через запятую стороны треугольника (например 8,9,10 : ')
 a,b,c = sides_of_a_triangle.split(',')
-enter = str
 a = int(a)
 b = int(b)
 c = int(c)
