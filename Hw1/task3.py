@@ -1,4 +1,3 @@
-Digit = int
 divider = 0
 Start_digit = 2
 One = 1
