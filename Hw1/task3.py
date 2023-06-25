@@ -4,7 +4,7 @@ Start_digit = 2
 One = 1
 
 while True:
-    Digit =int(input("Введите положительное число, которое не больше 100 000: "))
+    Digit = int(input("Введите положительное число, которое не больше 100 000: "))
     if Digit >= 0 or Digit < 100000:
         break
 
